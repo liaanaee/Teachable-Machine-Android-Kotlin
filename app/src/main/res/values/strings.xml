@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Fishku</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="infokan">Aplikasi ini dibuat untuk penulisan ilmiah</string>
+    <string name="nama">Nama: Liana Eka Wardhani</string>
+    <string name="npm">NPM: 50421748</string>
+    <string name="email">lianaeka03@gmail.com</string>
+    <string name="splashh">Sahabatmu untuk mengenal ikan</string>
+    <string name="name">name</string>
+    <string name="score">skor\n</string>
+    <string name="hasil_analisis">Analisa menunjukkan bahwa gambar ini termasuk kategori</string>
+    <string name="analysis_type">Tipe: %s</string>
+    <string name="analysis_score">Score: %s</string>
+    <string name="galeri">Galeri</string>
+    <string name="deteksi">Deteksi</string>
+    <string name="camera">Kamera</string>
+    <string name="fish_name">Jenis Ikan</string>
+    <string name="description">Deskripsi</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ikan_sapu</item>
+        <item>@drawable/ikan_lemon</item>
+        <item>@drawable/ikan_neon</item>
+        <item>@drawable/ikan_maskoki</item>
+    </integer-array>
+
+    <string-array name="fish_name">
+        <item>Ikan Sapu-Sapu</item>
+        <item>Ikan Lemon</item>
+        <item>Ikan Neon Tetra</item>
+        <item>Ikan Mas Koki</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Ikan sapu-sapu, yang dikenal dengan nama ilmiah Hypostomus plecostomus, adalah ikan yang populer di kalangan pecinta akuarium karena kemampuannya membersihkan alga. Ikan ini memiliki tubuh yang keras
+            dan mulut berbentuk pengisap yang memungkinkan mereka menempel pada permukaan akuarium. Mereka adalah ikan yang cukup tahan banting, tetapi tetap memerlukan perawatan yang baik, seperti menyediakan tempat
+            berlindung dan memastikan kualitas air yang baik. Makanan utama mereka adalah alga, tetapi mereka juga bisa diberikan sayuran seperti mentimun atau zukini sebagai tambahan.
+        </item>
+        <item> Ikan lemon dikenal sebagai ikan yang damai, walau begitu ikan lemon tidak boleh disimpan dengan spesies akuarium komunitas air tawar seperti ikan zebra atau tetra neon, mereka dapat menggigit sirip spesies ikan damai lainnya,
+            dan tidak direkomendasikan untuk akuarium komunitas air tawar karena perbedaan habitat alami. Ikan Lemon rentan terhadap beberapa penyakit umum, termasuk Ich (white spot) serta infeksi parasit, virus, atau bakteri.
+            Untuk mengatasi penyakit tersebut, penting untuk meningkatkan suhu air hingga 30 derajat Celsius selama beberapa hari dan menambahkan garam ikan ke dalam air.
+        </item>
+        <item>
+            Ikan neon tetra adalah jenis ikan hias yang memiliki peluang bagus untuk dibudidayakan. Ikan ini dinamakan neon tetra karena tubuhnya yang terlihat bersinar meski dalam keadaan gelap.\n
+            Ikan neon tetra memakan cacing darah, artemia, cacing sutra, hingga kutu air. Pemberian pakan pabrikan juga diperbolehkan. Pastikan saja tidak berlebihan sehingga air akuarium tak mudah kotor dan justru membahayakan ikan.
+            Ikan ini termasuk salah satu jenis ikan hias yang masih menjadi favorit hingga saat ini.
+        </item>
+        <item>
+            Ikan mas koki termasuk ikan yang cara merawatnya terbilang mudah dan menjadikan banyak orang hobi membudidayakan ikan ini. Tempat ikan mas koki bisa di akuarium bentuk kotak atau mangkuk. Namun, ukurannya harus bisa menampung
+            ikan mas koki hingga tumbuh besar. Memelihara ikan mas koki sebaiknya tidak dicampurkan dengan ikan jenis lain. Ikan mas koki ini adalah jenis ikan yang tenang dan tidak cocok bergaul dengan jenis ikan lainnya. Jika sampai dicampur dengan jenis ikan lain yang agresif, ikan mas koki akan cepat mati.
+        </item>
+    </string-array>
+</resources>
